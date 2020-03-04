@@ -83,8 +83,8 @@
                 <div>
                   <img
                     class="h-8 w-auto"
-                    src="/img/logos/workflow-mark-on-white.svg"
-                    alt=""
+                    src="https://github.com/organizations/RealCodeCamp/settings/profile"
+                    alt="Real Code Camp"
                   />
                 </div>
                 <div class="-mr-2">
@@ -156,7 +156,7 @@
             >
               <div class="rounded-md shadow">
                 <a
-                  href="http://bit.ly/DiscordRealCodeCamp"
+                  href="http://bit.ly/RealCodeCampGroup"
                   class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-500 focus:outline-none focus:shadow-outline transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10"
                 >
                   Join now

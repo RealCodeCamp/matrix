@@ -36,9 +36,9 @@ $ yarn generate
 ```
 
 ### Social Networks
-[Discord](http://bit.ly/DiscordRealCodeCamp)
-[Twitter](http://bit.ly/twitter.com/realcodecamp)
-[Instagram](http://instagram.com/realcodecamp)
-[Gitcoin](http://bit.ly/gitcoinBRIT-UK)
+- [Discord](http://bit.ly/DiscordRealCodeCamp)
+- [Twitter](http://bit.ly/twitter.com/realcodecamp)
+- [Instagram](http://instagram.com/realcodecamp)
+- [Gitcoin](http://bit.ly/gitcoinBRIT-UK)
 
 [Real Code Camp - GitCoin Grants](http://bit.ly/gitcoinRealCodeCamp).
